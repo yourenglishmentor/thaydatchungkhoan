@@ -24,14 +24,19 @@ import json
 #import fix lib - DangBH
 from requests.exceptions import HTTPError
 import home_Default
-import crawl_mck
+#import crawl_mck
 from theme_config import pages, styles, marquee_html
 import connect_ggsheet
 from check_keys import ensure_key
 from test_chatGPT import ask_chatGPT
 from test_chatGPT import chatBot_answer
 import checkTypeData
+import yfinance as yf
 
+def get_stock_info(ticker):
+    stock = yf.Ticker(ticker)
+    info = stock.info
+    return info
 
 
 st.set_page_config(layout="wide")
@@ -101,8 +106,7 @@ if page == "Home":
             else:
                 # ====== CHƯA CÓ DATA ======
                 print(f"[CRAWL] No data for {ticker}, crawling...")
-                mck = call_mck(ticker)
-                mck_info = mck.info
+                mck_info = get_stock_info(ticker)
             print(mck_info)
 
             beta_value = mck_info['beta'] if 'beta' in mck_info else 0
