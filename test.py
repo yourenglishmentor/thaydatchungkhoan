@@ -1897,8 +1897,8 @@ elif page == "Trading Portfolio":
 
     def connect_to_google_sheets():
         # Authenticate using the service account JSON file
-        credentials = service_account.Credentials.from_service_account_file(
-            SERVICE_ACCOUNT_FILE, scopes=SCOPES
+        credentials = service_account.Credentials.from_service_account_info(
+            st.secrets["gcp_service_account"], scopes=SCOPES
         )
 
         # Build the Google Sheets API service
@@ -2187,10 +2187,9 @@ elif page == "Investing Portfolio":
 
     def connect_to_google_sheets():
         # Authenticate using the service account JSON file
-        credentials = service_account.Credentials.from_service_account_file(
-            SERVICE_ACCOUNT_FILE, scopes=SCOPES
+        credentials = service_account.Credentials.from_service_account_info(
+            st.secrets["gcp_service_account"], scopes=SCOPES
         )
-
         # Build the Google Sheets API service
         service = build('sheets', 'v4', credentials=credentials)
 
