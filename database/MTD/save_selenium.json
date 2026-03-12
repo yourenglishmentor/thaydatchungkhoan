@@ -1,0 +1,15 @@
+{
+  "https://fiscal.ai/company/NYSE-MTD/": {
+    "Rev 3Yr": "0.4%",
+    "Rev 5Yr": "5.7%",
+    "Rev 10Yr": "5%",
+    "Dil EPS 3Yr": "3.2%",
+    "Dil EPS 5Yr": "11%",
+    "Dil EPS 10Yr": "12.6%",
+    "Rev Fwd 2Yr": "4%",
+    "EBITDA Fwd 2Yr": "2.2%",
+    "EPS Fwd 2Yr": "3.9%",
+    "EPS LT Growth Est": "9.7%"
+  },
+  "https://finance.yahoo.com/quote/MTD/key-statistics?p=MTD": null
+}

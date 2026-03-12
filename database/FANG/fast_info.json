@@ -1,0 +1,22 @@
+{
+  "currency": "USD",
+  "dayHigh": 155.3699951171875,
+  "dayLow": 151.1999969482422,
+  "exchange": "NMS",
+  "fiftyDayAverage": 149.21660034179686,
+  "lastPrice": 154.61500549316406,
+  "lastVolume": 617316,
+  "marketCap": 44758898188.60976,
+  "open": 149.82000732421875,
+  "previousClose": 154.0,
+  "quoteType": "EQUITY",
+  "regularMarketPreviousClose": 151.2100067138672,
+  "shares": 289486121,
+  "tenDayAverageVolume": 1935520,
+  "threeMonthAverageVolume": 1743111,
+  "timezone": "America/New_York",
+  "twoHundredDayAverage": 143.17890003204346,
+  "yearChange": -0.15788589457668842,
+  "yearHigh": 180.91000366210938,
+  "yearLow": 114.0
+}

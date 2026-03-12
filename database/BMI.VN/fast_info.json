@@ -1,0 +1,22 @@
+{
+  "currency": "VND",
+  "dayHigh": 19900.0,
+  "dayLow": 19100.0,
+  "exchange": "VSE",
+  "fiftyDayAverage": 18404.166666666668,
+  "lastPrice": 19150.0,
+  "lastVolume": 739969,
+  "marketCap": 2883024801700.0,
+  "open": 19700.0,
+  "previousClose": 19500.0,
+  "quoteType": "EQUITY",
+  "regularMarketPreviousClose": 19750.0,
+  "shares": 150549598,
+  "tenDayAverageVolume": 826630,
+  "threeMonthAverageVolume": 451442,
+  "timezone": "Asia/Bangkok",
+  "twoHundredDayAverage": 18810.909356784327,
+  "yearChange": 0.09883577957954101,
+  "yearHigh": 21850.0,
+  "yearLow": 15198.23828125
+}

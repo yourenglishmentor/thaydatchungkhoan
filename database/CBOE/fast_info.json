@@ -1,0 +1,22 @@
+{
+  "currency": "USD",
+  "dayHigh": 267.93499755859375,
+  "dayLow": 261.75,
+  "exchange": "BTS",
+  "fiftyDayAverage": 254.4195999145508,
+  "lastPrice": 265.9100036621094,
+  "lastVolume": 153452,
+  "marketCap": 27826023100.959656,
+  "open": 266.7699890136719,
+  "previousClose": 266.32,
+  "quoteType": "EQUITY",
+  "regularMarketPreviousClose": 266.7699890136719,
+  "shares": 104644514,
+  "tenDayAverageVolume": 836580,
+  "threeMonthAverageVolume": 753387,
+  "timezone": "America/New_York",
+  "twoHundredDayAverage": 238.02569984436036,
+  "yearChange": 0.3864663163883404,
+  "yearHigh": 266.7699890136719,
+  "yearLow": 187.3000030517578
+}

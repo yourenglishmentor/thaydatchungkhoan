@@ -1,0 +1,15 @@
+{
+  "https://fiscal.ai/company/NasdaqGS-NDSN/": {
+    "Rev 3Yr": "2.5%",
+    "Rev 5Yr": "5.6%",
+    "Rev 10Yr": "5.2%",
+    "Dil EPS 3Yr": "-1.1%",
+    "Dil EPS 5Yr": "14.8%",
+    "Dil EPS 10Yr": "9.4%",
+    "Rev Fwd 2Yr": "4.3%",
+    "EBITDA Fwd 2Yr": "5.2%",
+    "EPS Fwd 2Yr": "10.2%",
+    "EPS LT Growth Est": "13%"
+  },
+  "https://finance.yahoo.com/quote/NDSN/key-statistics?p=NDSN": null
+}

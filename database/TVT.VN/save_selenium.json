@@ -1,0 +1,18 @@
+{
+  "https://fiscal.ai/company/HOSE-TVT/": {
+    "Rev 3Yr": "—",
+    "Rev 5Yr": "—",
+    "Rev 10Yr": "—",
+    "Dil EPS 3Yr": "—",
+    "Dil EPS 5Yr": "—",
+    "Dil EPS 10Yr": "—",
+    "Rev Fwd 2Yr": "—",
+    "EBITDA Fwd 2Yr": "—",
+    "EPS Fwd 2Yr": "—",
+    "EPS LT Growth Est": "—"
+  },
+  "https://finance.yahoo.com/quote/TVT.VN/key-statistics?p=TVT.VN": {
+    "__type__": "bs4_tag",
+    "html": "<section class=\"yf-18eg72q\" data-testid=\"qsp-statistics\">\n <header class=\"medium mb-4 yf-1kayatz font-condensed\">\n  <h3 class=\"header yf-1kayatz\">\n   Valuation Measures\n  </h3>\n </header>\n <div class=\"table-container yf-18eg72q\">\n  <table class=\"table yf-18eg72q\">\n   <thead>\n    <tr class=\"yf-18eg72q\">\n     <th class=\"yf-18eg72q\">\n     </th>\n     <th class=\"yf-18eg72q\">\n      Current\n     </th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr class=\"yf-18eg72q alt\">\n     <td class=\"yf-18eg72q\">\n      Market Cap\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q\">\n     <td class=\"yf-18eg72q\">\n      Enterprise Value\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q alt\">\n     <td class=\"yf-18eg72q\">\n      Trailing P/E\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q\">\n     <td class=\"yf-18eg72q\">\n      Forward P/E\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q alt\">\n     <td class=\"yf-18eg72q\">\n      PEG Ratio (5yr expected)\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q\">\n     <td class=\"yf-18eg72q\">\n      Price/Sales\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q alt\">\n     <td class=\"yf-18eg72q\">\n      Price/Book\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q\">\n     <td class=\"yf-18eg72q\">\n      Enterprise Value/Revenue\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n    <tr class=\"yf-18eg72q alt\">\n     <td class=\"yf-18eg72q\">\n      Enterprise Value/EBITDA\n     </td>\n     <td class=\"yf-18eg72q\">\n      --\n     </td>\n    </tr>\n   </tbody>\n  </table>\n </div>\n</section>\n"
+  }
+}

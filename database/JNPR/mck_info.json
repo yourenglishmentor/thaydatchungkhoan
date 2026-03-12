@@ -1,0 +1,19 @@
+{
+  "ticker": "JNPR",
+  "crprice": null,
+  "mck_info": {
+    "quoteType": "NONE",
+    "symbol": "JNPR",
+    "language": "en-US",
+    "region": "US",
+    "triggerable": false,
+    "customPriceAlertConfidence": "NONE",
+    "financialCurrency": "USD",
+    "corporateActions": [],
+    "tradeable": false,
+    "cryptoTradeable": false,
+    "esgPopulated": false,
+    "hasPrePostMarketData": false,
+    "trailingPegRatio": null
+  }
+}
